@@ -4,7 +4,7 @@ Lightweight template to kickstart a TypeScript project with common setup and dep
 
 ## Usage
 
-Click on the <button class="button">Use this template</button> button over the GitHub menu 👆 to create your repository with this template.
+Click on the <button class="button" style="background-color: #238636;"> Use this template</button> button over the GitHub menu 👆 to create your repository with this template.
 
 Then start it with your favorite package manager:
 
