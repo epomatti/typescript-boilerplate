@@ -2,7 +2,7 @@
 
 Lightweight template to kickstart a TypeScript project with common setup and dependencies.
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/epomatti/typescript-boilerplate)
 
 ## Usage
 
