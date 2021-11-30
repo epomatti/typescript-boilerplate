@@ -20,7 +20,7 @@ npm run dev
 
 Update `package.json` with your project information and remove the sample code under the `src` folder.
 
-## Requirements 📄
+## Requirements
 
 This project is tested on Node.js 16.
 
@@ -29,11 +29,10 @@ This project is tested on Node.js 16.
 All of the following dependencies are part of this template:
 
 - TypeScript ([tsconfig.json](./tsconfig.json))
-- ts-node
-- ts-node-dev
+- ts-node / ts-node-dev
 - Jest ([jest.config.js](./jest.config.js))
 - ESLint ([.eslintrc.js](./.eslintrc.js))
-- Babel
+- Babel ([babel.config.js](./babel.config.js))
 - dotenv
 - Common `package.json` scripts
 
@@ -47,7 +46,7 @@ Feel free to fork and send a pull request.
 
 If possible, also [register a new enhancement](https://github.com/epomatti/typescript-boilerplate/issues) issue for tracking and automatic changelog.
 
-## Changelog
+## Changelog 
 
 Soon to be implemented.
 
