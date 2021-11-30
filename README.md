@@ -4,7 +4,7 @@ Lightweight template to kickstart a TypeScript project with common setup and dep
 
 ## Usage
 
-Click on the **"Use this template"** button over the GitHub menu 👆 to create your repository with this template, or also [mirroring this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository).
+Click on the **"Use this template"** button over the GitHub menu 👆 to create your repository with this template
 
 Use your favorite package manager:
 
@@ -17,6 +17,8 @@ yarn run dev
 npm install
 npm run dev
 ```
+
+If you prefer you can also [mirror](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) this repository.
 
 Update `package.json` with your project information and remove the sample code under the `src` folder.
 
@@ -45,6 +47,8 @@ Here are some ideas of what can be done next:
 - [ ] Packages & Releases
 - [ ] Prettier
 - [ ] TypeScript for config files
+- [ ] Code Climate
+- [ ] CII
 
 ## Contributing 🤝
 
