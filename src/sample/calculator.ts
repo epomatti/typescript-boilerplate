@@ -1,6 +1,6 @@
 export class Calculator {
 
-  sum(a: number, b: number): number {
+  async sum(a: number, b: number): Promise<number> {
     return a + b;
   }
 
