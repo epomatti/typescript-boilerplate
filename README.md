@@ -2,6 +2,8 @@
 
 Lightweight template to kickstart a TypeScript project with common setup and dependencies.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+
 ## Usage
 
 Click on the **"Use this template"** button over the GitHub menu 👆 to create your repository with this template
@@ -42,10 +44,10 @@ All of the following dependencies are part of this template:
 
 Here are some ideas of what can be done next:
 
+- [X] Code Climate
 - [ ] Automatic changelog
 - [ ] Actions
 - [ ] Packages & Releases
-- [ ] Code Climate
 - [ ] Review project setup
 - [ ] Prettier
 - [ ] TypeScript for config files
