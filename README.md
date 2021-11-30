@@ -38,13 +38,13 @@ All of the following dependencies are part of this template:
 
 ## Roadmap
 
-Here are some ideas of can be done next:
+Here are some ideas of what can be done next:
 
 - [ ] Automatic changelog
 - [ ] Actions
 - [ ] Packages & Releases
 - [ ] Prettier
-- [ ] Convert config files to `.ts`
+- [ ] TypeScript for config files
 
 ## Contributing 🤝
 
