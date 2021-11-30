@@ -45,9 +45,10 @@ Here are some ideas of what can be done next:
 - [ ] Automatic changelog
 - [ ] Actions
 - [ ] Packages & Releases
+- [ ] Code Climate
+- [ ] Review project setup
 - [ ] Prettier
 - [ ] TypeScript for config files
-- [ ] Code Climate
 - [ ] CII
 
 ## Contributing 🤝
