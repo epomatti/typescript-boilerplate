@@ -38,7 +38,13 @@ All of the following dependencies are part of this template:
 
 ## Roadmap
 
-I'll soon be adding a roadmap checklist.
+Here are some ideas of can be done next:
+
+- [ ] Automatic changelog
+- [ ] Actions
+- [ ] Packages & Releases
+- [ ] Prettier
+- [ ] Convert config files to `.ts`
 
 ## Contributing 🤝
 
