@@ -6,7 +6,7 @@ Lightweight template to kickstart a TypeScript project with common setup and dep
 
 ## Usage
 
-Click on the **"Use this template"** button over the GitHub menu 👆 to create your repository with this template
+Click on the **"Use this template"** button over the GitHub menu 👆 to create your repository with this template.
 
 Use your favorite package manager:
 
