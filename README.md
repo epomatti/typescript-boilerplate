@@ -46,7 +46,8 @@ Here are some ideas of what can be done next:
 
 - [X] Code Climate
 - [X] Actions
-- [ ] Packages & Releases
+- [X] Releases
+- [ ] Packages
 - [ ] Automatic changelog
 - [ ] Review project setup
 - [ ] Prettier
