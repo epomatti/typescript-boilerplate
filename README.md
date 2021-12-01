@@ -45,9 +45,9 @@ All of the following dependencies are part of this template:
 Here are some ideas of what can be done next:
 
 - [X] Code Climate
-- [ ] Automatic changelog
-- [ ] Actions
+- [X] Actions
 - [ ] Packages & Releases
+- [ ] Automatic changelog
 - [ ] Review project setup
 - [ ] Prettier
 - [ ] TypeScript for config files
@@ -55,7 +55,7 @@ Here are some ideas of what can be done next:
 
 ## Contributing 🤝
 
-Feel free to fork and send a pull request.
+Welcoming all pull requests and ideas.
 
 If possible, also [register a new enhancement](https://github.com/epomatti/typescript-boilerplate/issues) issue for tracking and automatic changelog.
 
