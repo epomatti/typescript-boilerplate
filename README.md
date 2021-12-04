@@ -40,6 +40,11 @@ All of the following dependencies are part of this template:
 - dotenv
 - Common `package.json` scripts
 
+Project workspace settings:
+
+- End of line: Unix (LF)
+- Character encoding: UTF-8
+
 ## Roadmap
 
 Here are some ideas of what can be done next:
@@ -47,7 +52,8 @@ Here are some ideas of what can be done next:
 - [X] Code Climate
 - [X] Actions
 - [X] Releases
-- [ ] Packages
+- [X] Manual changelog
+- [X] End of line & encoding settings
 - [ ] Automatic changelog
 - [ ] Review project setup
 - [ ] Prettier
@@ -62,7 +68,7 @@ If possible, also [register a new enhancement](https://github.com/epomatti/types
 
 ## Changelog 
 
-Soon to be implemented.
+Available here: [CHANGELOG.MD](./CHANGELOG.md).
 
 ## Support
 
