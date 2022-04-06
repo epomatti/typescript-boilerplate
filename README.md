@@ -45,7 +45,7 @@ Project workspace settings:
 - End of line: Unix (LF)
 - Character encoding: UTF-8
 
-## Roadmap
+## Todo
 
 Here are some ideas of what can be done next:
 
